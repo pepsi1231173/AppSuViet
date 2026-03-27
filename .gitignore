@@ -39,3 +39,11 @@
 
 # debug information files
 *.dwo
+
+# Flutter project nested under AppSuViet(FlutterDart)
+AppSuViet(FlutterDart)/android/.gradle/
+AppSuViet(FlutterDart)/android/.kotlin/
+AppSuViet(FlutterDart)/android/build/
+AppSuViet(FlutterDart)/android/local.properties
+AppSuViet(FlutterDart)/build/
+AppSuViet(FlutterDart)/.dart_tool/
